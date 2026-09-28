@@ -20,10 +20,10 @@ function About() {
             eye for design, and understand what it really takes to turn an idea
             into something people can use.
           </p>
-          <p>
+          {/* <p>
             Currently completing a B.Sc. with a thesis on human factors in
             cybersecurity awareness.
-          </p>
+          </p> */}
         </div>
         <a href="/Bennie CV-RESUME.pdf" className="cv-button" download>
           Download Cv
